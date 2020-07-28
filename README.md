@@ -12,5 +12,5 @@ Link to my application: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-![](https://github.com/dholanaresh/Movie_Recoomendation_System_with_Sentiment_Analysis/edit/master/Movie_Recommendation_System.PNG)
+![](https://github.com/dholanaresh/Movie_Recoomendation_System_with_Sentiment_Analysis/master/Movie_Recommendation_System.PNG)
 
