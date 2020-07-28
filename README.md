@@ -12,8 +12,5 @@ Link to my application: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-Source Codde: https://github.com/dholanaresh/Movie_Recoomendation_System_with_Sentiment_Analysis
-<p align="center">
-  <img src="D:\movie\Movie_Recommendation_Git.hub\Movie_Recommendation System" width="350" title="hover text">
-  <img src="D:\movie\Movie_Recommendation_Git.hub\Movie_Recommendation System" width="350" alt="accessibility text">
-</p>
+![](https://github.com/dholanaresh/BangloreHousePrice_Project/blob/master/Movie_Recommendation System.png)
+
