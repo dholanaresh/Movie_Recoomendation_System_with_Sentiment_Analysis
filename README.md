@@ -11,7 +11,44 @@ I've developed a similar application called "The Movie Cinema" which supports al
 Link to my application: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
+Source Code: https://github.com/dholanaresh/Movie_Recoomendation_System_with_Sentiment_Analysis
 
 ![Movie_Recommendation_System](https://user-images.githubusercontent.com/65899889/88811325-b2120580-d1b6-11ea-8335-f9f025879037.png)
 
 ![Recommendattion_movies_for you](https://user-images.githubusercontent.com/65899889/88812011-8c393080-d1b7-11ea-8753-2d8cd8418ce3.png)
+
+## How  to get the API Key?
+
+Create an account in https://www.themoviedb.org/, click on the API link from the left hand sidebar in your account settings and fill all the details to apply for API key. You will see the API key in your API sidebar once your request is approved.
+
+## How to run the project?
+
+1. Install all the libraries mentioned in the requirements.txt file.
+2. Clone this repository in your local system.
+3. Replace YOUR_API_KEY in the static/recommend.js file.
+4. Open the command prompt from your project directory and run the command python main.py.
+5. Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+6. Hurray! That's it.
+
+## Getting a TMDb API Key
+Here find the link for you video how to getting a TMDBb API Key: https://www.youtube.com/watch?v=Gf45f5cW6c4
+
+## Similarity Score:
+
+How does it decide which item is most similar to the item user likes? Here we use the similarity scores.
+
+It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
+
+##  How Cosine Similarity works?
+
+Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The cosine similarity is advantageous because even if the two similar documents are far apart by the Euclidean distance (due to the size of the document), chances are they may still be oriented closer together. The smaller the angle, higher the cosine similarity.
+
+
+
+
+
+
+
+
+
+
